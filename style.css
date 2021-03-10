@@ -1,0 +1,293 @@
+.nav-link {
+    color:white;
+    }
+    .social {
+     min-height:50px!important;
+      padding:10px;
+      text-align:center;
+    }
+    .social h1 {
+    font-size:20px;
+     font-family:'Lato',sans serif;
+    } 
+    .navbar-brand {
+    color:black;
+      font-weight:bold;
+      font-family:'Arvo', sans-serif; 
+      border:2px solid black;
+      padding:10px;
+      border-radius:5px;
+    }
+    .nav-item {
+     padding:10px;
+    }
+    .navbar-nav {
+      padding:0 120px!important;
+    }
+    .nav-link {
+      color:black;
+      text-align:center;
+        font-family:'Lato', sans-serif;
+      font-weight:bold;
+      margin: 0 20px;
+    }
+    #active {
+     
+      color:white;
+      padding:10px!important;
+      border-radius:5px;
+    }
+    #contact {
+      color:black;
+      border:2px!important;
+    }
+    #contact:hover {
+      
+      color:white;
+    }
+    .navbar   {
+      background-color:transparent;
+      color:white;
+    }
+    .navbar-toggler-icon {
+      border-color: white!important;
+      color:white!important;
+      background-color:white;
+    }
+    .navbar .navbar-toggler-icon {
+      font-size:25px;
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(0,0,0.5)	' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+    }
+    #lead {
+      border-radius:2px;
+      padding:5px;
+      
+    }
+    .jumbotron  {
+    background-image: url('pets.jpeg');
+      background-size:cover;
+      padding:6rem!important;
+      color:white;
+      justify-content:center;
+      border-radius:none!important;
+    }
+    .button  {
+      padding:10px!important;
+      font-family:'Arvo', serif!important;
+       margin: 5px 5px 5px 10px;
+      border-radius:5px!important;
+      border:2.5px solid white!important;
+      font-size:17px!important;
+      background-color:none!important;
+      color:white!important;
+    }
+    .btn:hover {
+      background-color:dodgerblue!important;
+      color:white!important;
+      font-weight:bold!important;
+      transition:1s ease;
+      border:none!important;
+    }
+    .lead  {
+     font-size:1.2rem!important;
+      font-family: 'Arvo', serif;
+    }
+    .display-4 {
+      color:white;
+      text-transform:uppercase;
+      text-align:center!important;
+       text-shadow:5px 4px 2px black;
+      font-weight:bold;
+      font-family:'Arvo' serif;
+    }
+    #main h1 {
+     margin:20px 0;
+      text-align:center;
+    }
+    #main {
+      background-color:#f6f8fa;
+     min-height:700px!important;
+      text-align:center;
+      padding:10px 0;
+      margin-top:-40px;
+    }
+    .container {
+      margin:none!important;
+      padding:10px;
+    }
+    .box {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: white;
+      box-shadow:0 10px 30px rgba(0, 0, 0, 0.2);
+      color:black;
+      margin: 30px 0  ;
+      padding:20px 0;
+      flex-direction:column;
+      width:100%;
+      min-height: 400px;
+      color:black;
+      display:flex;
+      cursor: pointer;
+    }
+    .box img {
+      width:50%;
+      margin-top:20px; 
+    }
+    .box h1 {
+    font-size:25px; 
+        padding-bottom:0px;
+      margin-top:40px!important;
+    }
+    #icon {
+      font-size:100px;
+    }
+    .box p {
+      padding:10px;
+      line-height:30px;
+      margin:5px; 
+    }
+    .about h1 {
+      margin:40px 0;
+    }
+    .aboutprofile {
+     background-color:none!important;
+      width:100%;
+      min-height:200px;
+      padding:40px;
+    }
+    .jumbotron-2 {
+      background-color:red;
+      min-height:400px;
+    }
+    .aboutinfo h2 {
+      padding:30px;
+      color:black;
+    }
+    .aboutprofile img {
+    max-width: 50%;
+      border-radius:500px!important;
+    }
+    .aboutinfo {
+     background-color:none;
+      min-height:200px!important;
+    }
+    .jumbotron-1 {
+      background-image: linear-gradient(
+        rgba(0, 0, 0, 0.5), 
+        rgba(0, 0, 0, 0.5)
+      ),url(catMain.jpeg);
+      justify-content: center!important;
+      align-items:center!important;
+      background-attachment: fixed;
+      padding:4rem;
+    }
+  .displayr {
+      color:white;
+      font-family:'Lato', sans-serif;
+      text-shadow: none;
+      font-size:25px!important;
+    }
+   .buttonn {
+      padding:10px!important;
+      font-family:'Arvo', serif!important;
+       margin: 10px 5px 5px 10px;
+      border-radius:5px!important;
+      border:2.5px solid white!important;
+      font-size:17px!important;
+      background-color:none!important;
+      color:white!important;
+      padding:10px!important;
+    }
+  .projects {
+    background-color: #1E1C1C;
+    min-height: 800px!important;
+  }
+  .gallery {
+    width:100%;
+    background-color: transparent;
+    height:500px;
+    display: flex;
+    align-items:flex-start;
+    margin:20px 0;
+    justify-content:center;
+    flex-direction:column;
+    padding:50px 0;
+    text-align: left;
+  }
+  .btn-group {
+  padding:0px;
+  }
+  .gallery:hover {
+    background-color:#1E1C1C!important;
+    transition:1s ease-in-out;
+    color:white;
+  }
+  .projects h1 {
+    color:white;
+    text-align:center;
+    padding:30px;
+  }
+  .gallery  h2 {
+    font-size: 20px;
+    color:white;
+    padding:20px;
+    width:50%;
+  border-top:none;
+  }
+  .gallery img {
+    width:100%;
+    height:100%;
+    margin-top:-50px;
+    margin-bottom: none;
+    border-radius:5px;
+  }
+  .gallery img:hover {
+    opacity:1;
+    transform: scale(1.02);
+    transition:0.8s ease-in-out;
+  }
+  .contact {
+  min-height:500px!important;
+  }
+  .contact h1 {
+    text-align:center;
+    padding:30px;
+  }  
+  form {
+    text-align:center;
+    flex-direction:column!important;
+  justify-content:center!important;
+  display:flex!important;
+  align-items:center!important;
+  font-weight:bold;
+  }
+  .form-group {
+    width:40%;
+    justify-content:center!important;
+  display:flex!important;
+  flex-direction:column;
+  align-items:center!important;
+  padding:15px;
+  font-weight:bold;
+  }
+  .buttonz{
+   color:white!important;
+   display:flex!important;
+   flex-direction:column!important;
+   justify-content: center!important;
+   align-items: center!important;
+   background-color:dodgerblue!important;
+   width:40%;
+   padding:20px;
+   border-radius:150px!important;
+  }
+  .footer-copyright {
+    background-color:#1E1C1C!important;
+    color:white;
+  }
+  .footer-copyright i {
+    color:red;
+    font-size:17px;
+  }  
